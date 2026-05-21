@@ -11,7 +11,7 @@
 ```ts
 const Gabriel = {
   nome: "Gabriel Lira",
-  idade: 22,
+  idade: 23,
   curso: [
     "Ciência da Computação - UNICID",
   ]
